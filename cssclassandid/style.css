@@ -2,14 +2,14 @@
     background-color: lightpink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.sec {
+#sec {
     color: blue;
     font-size: 36px;
 }
 .odd.third {
     font-size: 24px;
 }
-.fourth {
+#fourth {
     background-color: lightgreen;
     font-weight: bold;
     font-size: 24px;
